@@ -1,0 +1,94 @@
+{
+  "deployments": [
+    {
+      "action": "instantiate",
+      "txhash": "E43DBDDBB112C1DF9F9291DCAE3E56CD1FDB20D8990BF3A642F81CE47B6527E6",
+      "wasm": {
+        "codeId": 2999
+      },
+      "contract": {
+        "name": "project",
+        "version": "0.1.0",
+        "address": "archway1aw33ujp5nevaz4dm4vslrlvnnl78ssq85nultv2s5lax2kyp3cjqku076t",
+        "admin": "archway18wse7h5hyme0kgtsnng3s8ntmlnlu52sljzk2h"
+      },
+      "msg": {}
+    },
+    {
+      "action": "store",
+      "txhash": "D664577503690051ACFA8E31008431CD4295D05204B5855CD1E8C4B6FEAD7439",
+      "wasm": {
+        "codeId": 2999,
+        "checksum": "4017fe4782b731d372bc55a38abcce20a6db3745d1f006d2bba77b105380dbb2"
+      },
+      "contract": {
+        "name": "project",
+        "version": "0.1.0"
+      }
+    },
+    {
+      "action": "store",
+      "txhash": "8B5D58BAF9589366B709B82D706969DC2E9B59EA4205B42BF2E00560CC871F0B",
+      "wasm": {
+        "codeId": 2997,
+        "checksum": "b640b52bcfa9a336484b3228966ccef5a6de0e37e15ba0987e32e123d8ab3e0e"
+      },
+      "contract": {
+        "name": "project",
+        "version": "0.1.0"
+      }
+    },
+    {
+      "action": "instantiate",
+      "txhash": "33942494A83C5FD8368453A445E32428E5E9B6889BF4E23244EE11216545F8F6",
+      "wasm": {
+        "codeId": 2996
+      },
+      "contract": {
+        "name": "project",
+        "version": "0.1.0",
+        "address": "archway10xwp6ar07uvjtfpcvph48dhjawwsnmnnekgy604xj8kvde7cml2szdcxq0",
+        "admin": "archway18wse7h5hyme0kgtsnng3s8ntmlnlu52sljzk2h"
+      },
+      "msg": {}
+    },
+    {
+      "action": "store",
+      "txhash": "5BDB27CD674BC4B55644D357B787EC9388EE0EFA8EB92AF137E843CE91939A09",
+      "wasm": {
+        "codeId": 2996,
+        "checksum": "c8997144ae892f01f1a649a665baac29363a18cebf68e84b4f0713d5e59159bf"
+      },
+      "contract": {
+        "name": "project",
+        "version": "0.1.0"
+      }
+    },
+    {
+      "action": "instantiate",
+      "txhash": "D1D331D9F9A1D6193787ACAD9A14DB3FC1612E3C1D08949FCD5C2B3254C4A83B",
+      "wasm": {
+        "codeId": 2994
+      },
+      "contract": {
+        "name": "project",
+        "version": "0.1.0",
+        "address": "archway1u0p6m98dwknsvq9p4d4z6z2ck8ywrx3pad5qzlxltg5a3xj6ezmsvdh592",
+        "admin": "archway18wse7h5hyme0kgtsnng3s8ntmlnlu52sljzk2h"
+      },
+      "msg": {}
+    },
+    {
+      "action": "store",
+      "txhash": "1F468D84EACE14533888EC89169317FEF2180666741D139779AD5A66F48AD63F",
+      "wasm": {
+        "codeId": 2994,
+        "checksum": "c8997144ae892f01f1a649a665baac29363a18cebf68e84b4f0713d5e59159bf"
+      },
+      "contract": {
+        "name": "project",
+        "version": "0.1.0"
+      }
+    }
+  ]
+}
