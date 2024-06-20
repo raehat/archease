@@ -4,7 +4,8 @@ Project consists of two modules
 - archeasecontracts
 - archeaseapp
 
-archeasecontracts: This module includes the contract code deployed on archway constantine chain. Mobile App interacts with this smart contract
+# archeasecontracts
+This module includes the contract code deployed on archway constantine chain. Mobile App interacts with this smart contract
 to execute functionalities
 Contract address: archway1aw33ujp5nevaz4dm4vslrlvnnl78ssq85nultv2s5lax2kyp3cjqku076t
 
@@ -27,4 +28,15 @@ Contract address: archway1aw33ujp5nevaz4dm4vslrlvnnl78ssq85nultv2s5lax2kyp3cjqku
 9) Instantiate contracts
     ```archway contracts instantiate project```
 
-archeaseapp: This module includes the mobile app code. 
+# archeaseapp 
+This module includes the mobile app code. 
+
+## To build mobile app locally, follow these steps
+
+1) Open command line
+2) Run the command to clone repository in Android Studio
+   ```https://github.com/raehat/archease```
+3) move into archeaseapp directory
+   ```cd archeasecontracts```
+4) Run the command to build app
+   ```./gradlew assembleDebug```
