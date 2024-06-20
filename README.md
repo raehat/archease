@@ -40,3 +40,9 @@ This module includes the mobile app code.
    ```cd archeasecontracts```
 4) Run the command to build app
    ```./gradlew assembleDebug```
+
+## Project Architecture
+Explains how these modules interact with each other
+
+![image](https://github.com/raehat/archease/assets/77321971/9f2e48c0-9ed7-403c-af3e-b55e3267584f)
+
